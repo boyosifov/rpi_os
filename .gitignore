@@ -1,3 +1,6 @@
 /*.img
 /build/
 /Documentation/docs
+.vscode/
+copy_to_sdcard.sh
+old_image
